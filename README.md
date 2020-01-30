@@ -1,3 +1,5 @@
+*** Jan 30,2020 being used in the Rails App
+
 Data Migrate
 ====
 
